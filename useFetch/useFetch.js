@@ -29,7 +29,6 @@
  * // Example 2: Importing basic error codes
  * // import serverErrors from './httpErrorCodes';
  */
-
 import { useEffect, useState } from 'react';
 import serverErrors from './httpErrorCodes';
 //ALTERNATIVELY: import serverErrors from './httpErrorCodesDetailed';
